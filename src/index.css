@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&family=Gothic+A1:wght@300&display=swap');
+
+html{
+ width: 100vw;
+ height: 100vh;
+}
+body {
+  margin: 0;
+  font-family: 'Gothic A1', 'Yu Gothic UI', Carrois Gothic SC, sans-serif;
+  background-color: rgb(0, 0, 0)
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

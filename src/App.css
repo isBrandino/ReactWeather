@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  border-radius: 3.14px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  min-width: calc(100% - 10px);
+  min-height:calc(100% - 10px);
+  transform: translate(-50%, -50%);
+  border-radius: 3.14px; 
+}
+
+.icon:hover { 
+  opacity: 0.9; 
+} 
+
+.icon { 
+  color: white; 
+  height: 64px;
+  width: 64px;
+  opacity: 0.45; 
+  position: absolute; 
+  top: calc(30px + 1vmin);
+  left: calc(1vmax + 30px);
+  transform: translate(-50%, -50%); 
+  text-align: center; 
+} 
